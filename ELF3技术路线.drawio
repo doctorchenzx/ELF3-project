@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1405" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rItPWxVOTeLujfV4EQx0-1" value="上皮特异性转录因子ELF3对PDAC转录亚型以及药物反应的调控作用机制研究" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="140" y="550" width="490" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-26" value="&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; 肿瘤生物功能&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="880" y="110" width="780" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-25" value="&lt;span style=&quot;&quot;&gt;&amp;nbsp; 细胞状态可塑性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=25;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="780" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-8" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp; 化疗药物反应&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="880" y="890" width="780" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rItPWxVOTeLujfV4EQx0-1" value="&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;ELF&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;通过调控&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;Del&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;taNp63&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;在&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;胰腺导管腺癌转录亚型以及药物反应的作用及&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;机&lt;/span&gt;&lt;span style=&quot;line-height: 19.2px; font-weight: bold; caret-color: rgb(0, 0, 0); font-family: -webkit-standard; text-align: start; text-indent: -85px;&quot; class=&quot;s15&quot;&gt;制研究&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="920" y="40" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rItPWxVOTeLujfV4EQx0-3" value="肿瘤形成的作用" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="880" y="270" width="380" height="210" as="geometry" />
+          <mxGeometry x="210" y="720" width="380" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rItPWxVOTeLujfV4EQx0-4" value="增殖" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="rItPWxVOTeLujfV4EQx0-3" vertex="1">
           <mxGeometry y="30" width="380" height="30" as="geometry" />
@@ -140,32 +149,136 @@
         <mxCell id="Lq5KPBLzVWsf8WvaqmJl-23" value="公共数据验证" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" parent="Lq5KPBLzVWsf8WvaqmJl-19" vertex="1">
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-3" value="ELF3在PDAC肿瘤发生发展的作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="640" width="360" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-3" target="eEBJ1zHg8ZPNt_j6801A-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-4" value="ELF3对PDAC的转录亚型可塑性的调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="780" width="360" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-3" target="eEBJ1zHg8ZPNt_j6801A-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-5" value="ELF3对PDAC化疗药物反应的调控作用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="970" width="360" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eEBJ1zHg8ZPNt_j6801A-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-6" value="增殖能力检测、动物成瘤、免疫组化、RNAseq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="640" width="290" height="60" as="geometry" />
+        <mxCell id="V358naxsQ50KKTW5VzD1-3" value="ELF3在PDAC肿瘤发生发展的作用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="240" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-7" value="新定义PDAC细胞系转录亚型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="710" width="290" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-4" target="eEBJ1zHg8ZPNt_j6801A-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-8" value="ELF3对转录亚型的调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="780" width="290" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-4" target="eEBJ1zHg8ZPNt_j6801A-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-9" value="ELF3对dNP63介导的鳞化基底转录亚型的调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="850" width="290" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-4" target="eEBJ1zHg8ZPNt_j6801A-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-10" value="PDAC 吉西他滨耐药细胞株" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="940" width="290" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-4" target="V358naxsQ50KKTW5VzD1-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V358naxsQ50KKTW5VzD1-11" value="ELF3过表达对PDAC细胞化疗药物反应的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1010" width="290" height="60" as="geometry" />
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-4" target="eEBJ1zHg8ZPNt_j6801A-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-4" value="ELF3对PDAC的转录亚型可塑性的调控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="630" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-5" target="V358naxsQ50KKTW5VzD1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-5" target="V358naxsQ50KKTW5VzD1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-5" value="ELF3对PDAC化疗药物反应的调控作用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="970" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-6" value="1.CRISPR/Cas9敲除ELF3细胞系&lt;br&gt;2.细胞增殖&lt;br&gt;3.细胞周期" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-7" target="eEBJ1zHg8ZPNt_j6801A-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-7" value="定义PDAC细胞系转录亚型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="540" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-8" value="1.过表达ELF3&lt;br&gt;2.敲除ELF3&lt;br&gt;3.qPCR和WB检测&lt;br&gt;4.RNA-seq分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-10" target="eEBJ1zHg8ZPNt_j6801A-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-10" value="PDAC 吉西他滨耐药细胞株" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V358naxsQ50KKTW5VzD1-11" target="eEBJ1zHg8ZPNt_j6801A-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V358naxsQ50KKTW5VzD1-11" value="过表达ELF3对PDAC化疗药物反应的影响" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1010" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-1" target="eEBJ1zHg8ZPNt_j6801A-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-1" value="公共数据库挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-3" target="eEBJ1zHg8ZPNt_j6801A-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-3" value="ELF3与上皮细胞状态的维持和EMT的调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="810" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-4" target="eEBJ1zHg8ZPNt_j6801A-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-4" value="过表达dNP63验证与ELF3的负向调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="720" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-5" value="1.NMF聚类分析&lt;br&gt;2.特征基因层次聚类&lt;br&gt;3.热图分析一致性" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-9" value="1.裸鼠皮下成瘤&lt;br&gt;2.肿瘤体积监测&lt;br&gt;3.免疫组化&lt;br&gt;4.RNAseq" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-10" target="V358naxsQ50KKTW5VzD1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-10" value="体外细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-11" target="eEBJ1zHg8ZPNt_j6801A-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-11" value="体内动物成瘤实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-12" value="1.cBioPortal&lt;div&gt;2.GEPIA2&lt;/div&gt;&lt;div&gt;3.HPA&lt;/div&gt;&lt;div&gt;4.Depmap&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-13" target="eEBJ1zHg8ZPNt_j6801A-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-13" value="原发性和转移性单细胞数据重分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="450" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-14" value="1.单细胞聚类分群&lt;br&gt;2.转录亚型富集评分&lt;br&gt;3.差异转录因子分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEBJ1zHg8ZPNt_j6801A-15" target="V358naxsQ50KKTW5VzD1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-15" value="ELF3对dNP63介导的鳞化基底转录亚型的调控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="630" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-18" value="1.dNP63过表达&lt;br&gt;2.qPCR和WB检测&lt;br&gt;3.scRNA-seq分析&lt;br&gt;4.类器官验证" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-19" value="1.热图分析&lt;br&gt;2.TGFb1诱导&lt;br&gt;3.ELF3过表达&lt;br&gt;4.qPCR和WB检测&lt;br&gt;5.RNA-seq分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-20" value="1.耐药细胞株诱导&lt;br&gt;2.IC50检测&lt;br&gt;3.平板克隆&lt;br&gt;4.RNA-seq分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEBJ1zHg8ZPNt_j6801A-21" value="1.平板克隆&lt;div&gt;2.竞争实验&lt;br&gt;4.RNA-seq分析&lt;br&gt;5..裸鼠皮下成瘤&lt;br&gt;6..肿瘤体积监测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="990" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
