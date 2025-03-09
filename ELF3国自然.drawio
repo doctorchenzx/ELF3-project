@@ -52,10 +52,10 @@
         <mxCell id="tnzwanF5Vy6JVnjVZYrW-233" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;ELF3与ΔNp63的拮抗调控表观遗传机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="130" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnzwanF5Vy6JVnjVZYrW-234" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;ELF3与经典转录因子的协同调控网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tnzwanF5Vy6JVnjVZYrW-234" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;ELF3与经典亚型转录因子的协同调控网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="130" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnzwanF5Vy6JVnjVZYrW-235" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;ELF3对转录亚型可塑性的调控及化疗敏感性的影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tnzwanF5Vy6JVnjVZYrW-235" value="&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;ELF3在体内对转录亚型及化疗敏感性的影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="130" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tnzwanF5Vy6JVnjVZYrW-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tnzwanF5Vy6JVnjVZYrW-236" target="tnzwanF5Vy6JVnjVZYrW-233" edge="1">
