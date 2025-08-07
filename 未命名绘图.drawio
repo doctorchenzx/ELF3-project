@@ -108,16 +108,16 @@
         <mxCell id="eWs5n6P5kUTmqG-R48iR-14" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;Clinically undetermined (n=13)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;· &lt;/b&gt;Patient died prior to obtaining 1&lt;sup&gt;st&lt;/sup&gt; restaging&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;scan (n=4)&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;· &lt;/b&gt;Patient d&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;eclined treatment following biopsy (n=2)&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;·&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;caret-color: rgb(251, 74, 62); color: rgb(16, 18, 20); white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Patient received biopsy after starting 1st line treatment but before progression &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n=6)&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;·&amp;nbsp;&lt;/b&gt;Patient did not receive a standard 1&lt;span style=&quot;vertical-align: super;&quot;&gt;st&lt;/span&gt; line&lt;br&gt;therapy containing either FOLFIRINOX or GA&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(n=1)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="540" y="180" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Wcf4iK_CemhMIRecgHp_-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wcf4iK_CemhMIRecgHp_-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="560" as="sourcePoint" />
             <mxPoint x="130" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wcf4iK_CemhMIRecgHp_-3" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Analysis Performed&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="5" y="10" width="110" height="40" as="geometry" />
+        <mxCell id="Wcf4iK_CemhMIRecgHp_-3" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Analysis Performed&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5" y="10" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wcf4iK_CemhMIRecgHp_-4" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Samples Included&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Wcf4iK_CemhMIRecgHp_-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Samples Included&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="10" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
